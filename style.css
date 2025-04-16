@@ -1,10 +1,15 @@
 body{
- background-color: rgb(143, 18, 197);
+ background-color: rgb(200, 217, 237);
  text-align: center;
 }
 h1 {
     font-style: italic;
     color: rgb(214, 59, 150);
-    .imagem {
+}
+h2 {
+    color: aquamarine;
+}
+
+.imagem {
     width: 50%;
 }
